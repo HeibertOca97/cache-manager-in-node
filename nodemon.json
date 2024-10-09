@@ -1,0 +1,6 @@
+{
+  "watch": ["server.js", "cache/"],
+  "ext": "js,json,txt",
+  "ignore": ["caches/*"]
+}
+
